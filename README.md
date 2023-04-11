@@ -6,7 +6,7 @@
 > A Javascript library for issuing and verifying Verifiable Credentials.
 
 ## Table of Contents
-
+Test!
 - [Security](#security)
 - [Background](#background)
 - [Install](#install)
